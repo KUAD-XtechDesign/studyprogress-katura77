@@ -1,17 +1,8 @@
-body{
-
-  background-color:#58D3F7;
-
+body {
+  background-color: #58D3F7;
   text-align: center;
 }
-li{
-  list-style-type: none;
-}
 
-h2 {
-  color: red;
-}
-
-h1 {
-  font-size: px;
+li {
+  list-style: none;
 }
